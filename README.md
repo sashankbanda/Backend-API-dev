@@ -179,44 +179,69 @@ For a detailed breakdown of all routes and specifications, please refer to:
 👉 [**ENDPOINTS.md**](./ENDPOINTS.md)
 
 ---
-## 🧪 Demo Screenshots
-
-### 🏠 API Overview
-![Swagger Home](screenshots/01%20swagger-home.png)
-
 ### 👤 Employee Management
+<div align="center">
+
 **Create Employee (POST)**
-![Try It Out](screenshots/02%20employee_post_tryitout.png)
-![Request Body](screenshots/03%20employee_post.png)
-![Response](screenshots/04%20employee_post.png)
+<br>
+<img src="screenshots/02%20employee_post_tryitout.png" height="300" alt="Try It Out" />
+<img src="screenshots/03%20employee_post.png" height="300" alt="Request Body" />
+<img src="screenshots/04%20employee_post.png" height="300" alt="Response" />
+
+<br><br>
 
 **Get Employees (GET)**
-![Get All List](screenshots/05%20employee_get.png)
-![Get By ID](screenshots/06%20employee_get_by_id.png)
+<br>
+<img src="screenshots/05%20employee_get.png" height="300" alt="Get All List" />
+<img src="screenshots/06%20employee_get_by_id.png" height="300" alt="Get By ID" />
+
+<br><br>
 
 **Update Employee (PUT)**
-![Update Input](screenshots/07%20employee_put.png)
-![Update Result](screenshots/08%20employee_put_update.png)
+<br>
+<img src="screenshots/07%20employee_put.png" height="300" alt="Update Input" />
+<img src="screenshots/08%20employee_put_update.png" height="300" alt="Update Result" />
+
+<br><br>
 
 **Delete Employee (DELETE)**
-![Delete Action](screenshots/09%20employee_delete.png)
+<br>
+<img src="screenshots/09%20employee_delete.png" height="300" alt="Delete Action" />
+
+</div>
 
 ### 📝 Task Management
+<div align="center">
+
 **Create Task (POST)**
-![Task Request](screenshots/10%20task_post.png)
-![Task Response](screenshots/11%20task_post.png)
+<br>
+<img src="screenshots/10%20task_post.png" height="300" alt="Task Request" />
+<img src="screenshots/11%20task_post.png" height="300" alt="Task Response" />
+
+<br><br>
 
 **Get Tasks (GET)**
-![Task Filters](screenshots/12%20task_get.png)
-![Task List Results](screenshots/13%20task_get.png)
+<br>
+<img src="screenshots/12%20task_get.png" height="300" alt="Task Filters" />
+<img src="screenshots/13%20task_get.png" height="300" alt="Task List Results" />
+
+<br><br>
 
 **Update Task (PUT)**
-![Update Input](screenshots/14%20task_put.png)
-![Update Result](screenshots/15%20task_put.png)
+<br>
+<img src="screenshots/14%20task_put.png" height="300" alt="Update Input" />
+<img src="screenshots/15%20task_put.png" height="300" alt="Update Result" />
 
-### 🗄️ Database View
+</div>
+
+### Prisma
+<div align="center">
+
 **Prisma Studio**
-![Prisma Studio UI](screenshots/16%20Prisma%20Studio.png)
+<br>
+<img src="screenshots/16%20Prisma%20Studio.png" alt="Prisma Studio UI" />
+
+</div>
 
 ---
 
