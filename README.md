@@ -174,17 +174,45 @@ You can execute API calls for:
 *   POST/PUT/DELETE tasks
 
 ---
+## 📖 API Documentation
+For a detailed breakdown of all routes and specifications, please refer to:
+👉 [**ENDPOINTS.md**](./ENDPOINTS.md)
 
+---
 ## 🧪 Demo Screenshots
 
-*(Replace these images with your actual screenshot paths.)*
+### 🏠 API Overview
+![Swagger Home](screenshots/01%20swagger-home.png)
 
-*   ✅ Swagger Home
-*   👤 Create Employee
-*   📋 Get All Employees
-*   📝 Create Task
-*   🔍 Task Filters
-*   ❌ Delete Employee / Task
+### 👤 Employee Management
+**Create Employee (POST)**
+![Try It Out](screenshots/02%20employee_post_tryitout.png)
+![Request Body](screenshots/03%20employee_post.png)
+![Response](screenshots/04%20employee_post.png)
+
+**Get Employees (GET)**
+![Get All List](screenshots/05%20employee_get.png)
+![Get By ID](screenshots/06%20employee_get_by_id.png)
+
+**Update Employee (PUT)**
+![Update Input](screenshots/07%20employee_put.png)
+![Update Result](screenshots/08%20employee_put_update.png)
+
+**Delete Employee (DELETE)**
+![Delete Action](screenshots/09%20employee_delete.png)
+
+### 📝 Task Management
+**Create Task (POST)**
+![Task Request](screenshots/10%20task_post.png)
+![Task Response](screenshots/11%20task_post.png)
+
+**Get Tasks (GET)**
+![Task Filters](screenshots/12%20task_get.png)
+![Task List Results](screenshots/13%20task_get.png)
+
+### 🗄️ Database View
+**Prisma Studio**
+![Prisma Studio UI](screenshots/14%20Prisma%20Studio.png)
 
 ---
 
