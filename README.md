@@ -184,29 +184,29 @@ For a detailed breakdown of all routes and specifications, please refer to:
 
 **Create Employee (POST)**
 <br>
-<img src="screenshots/02%20employee_post_tryitout.png" height="300" alt="Try It Out" />
-<img src="screenshots/03%20employee_post.png" height="300" alt="Request Body" />
-<img src="screenshots/04%20employee_post.png" height="300" alt="Response" />
+<img src="screenshots/02%20employee_post_tryitout.png" alt="Try It Out" />
+<img src="screenshots/03%20employee_post.png" alt="Request Body" />
+<img src="screenshots/04%20employee_post.png" alt="Response" />
 
 <br><br>
 
 **Get Employees (GET)**
 <br>
-<img src="screenshots/05%20employee_get.png" height="300" alt="Get All List" />
-<img src="screenshots/06%20employee_get_by_id.png" height="300" alt="Get By ID" />
+<img src="screenshots/05%20employee_get.png" alt="Get All List" />
+<img src="screenshots/06%20employee_get_by_id.png" alt="Get By ID" />
 
 <br><br>
 
 **Update Employee (PUT)**
 <br>
-<img src="screenshots/07%20employee_put.png" height="300" alt="Update Input" />
-<img src="screenshots/08%20employee_put_update.png" height="300" alt="Update Result" />
+<img src="screenshots/07%20employee_put.png" alt="Update Input" />
+<img src="screenshots/08%20employee_put_update.png" alt="Update Result" />
 
 <br><br>
 
 **Delete Employee (DELETE)**
 <br>
-<img src="screenshots/09%20employee_delete.png" height="300" alt="Delete Action" />
+<img src="screenshots/09%20employee_delete.png" alt="Delete Action" />
 
 </div>
 
@@ -215,22 +215,22 @@ For a detailed breakdown of all routes and specifications, please refer to:
 
 **Create Task (POST)**
 <br>
-<img src="screenshots/10%20task_post.png" height="300" alt="Task Request" />
-<img src="screenshots/11%20task_post.png" height="300" alt="Task Response" />
+<img src="screenshots/10%20task_post.png" alt="Task Request" />
+<img src="screenshots/11%20task_post.png" alt="Task Response" />
 
 <br><br>
 
 **Get Tasks (GET)**
 <br>
-<img src="screenshots/12%20task_get.png" height="300" alt="Task Filters" />
-<img src="screenshots/13%20task_get.png" height="300" alt="Task List Results" />
+<img src="screenshots/12%20task_get.png" alt="Task Filters" />
+<img src="screenshots/13%20task_get.png" alt="Task List Results" />
 
 <br><br>
 
 **Update Task (PUT)**
 <br>
-<img src="screenshots/14%20task_put.png" height="300" alt="Update Input" />
-<img src="screenshots/15%20task_put.png" height="300" alt="Update Result" />
+<img src="screenshots/14%20task_put.png" alt="Update Input" />
+<img src="screenshots/15%20task_put.png" alt="Update Result" />
 
 </div>
 
