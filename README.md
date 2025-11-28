@@ -210,9 +210,13 @@ For a detailed breakdown of all routes and specifications, please refer to:
 ![Task Filters](screenshots/12%20task_get.png)
 ![Task List Results](screenshots/13%20task_get.png)
 
+**Update Task (PUT)**
+![Update Input](screenshots/14%20task_put.png)
+![Update Result](screenshots/15%20task_put.png)
+
 ### 🗄️ Database View
 **Prisma Studio**
-![Prisma Studio UI](screenshots/14%20Prisma%20Studio.png)
+![Prisma Studio UI](screenshots/16%20Prisma%20Studio.png)
 
 ---
 
